@@ -1,0 +1,3 @@
+## react-native-slide-panel
+
+zIndex not working in Android, waiting...
